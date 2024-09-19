@@ -19,5 +19,8 @@
 		"uuid-v4": "^0.1.0",
 		"web-push": "^3.6.7",
 		"zod": "^3.23.8"
+	},
+	"devDependencies": {
+		"@types/web-push": "^3.6.3"
 	}
 }
